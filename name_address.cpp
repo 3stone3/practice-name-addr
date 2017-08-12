@@ -8,6 +8,6 @@ int main()
    cin >> name;
    count << "Your address: ";
    string addr;
-   cin >> add;
-   count << "Your name and address are: " << name << " and " << add << endl;
+   cin >> addr;
+   count << "Your name and address are: " << name << " and " << addr << endl;
 }
